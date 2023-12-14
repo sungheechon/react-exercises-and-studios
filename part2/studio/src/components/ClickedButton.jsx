@@ -1,5 +1,14 @@
+import "./styling.css";
+
 function ClickedButton() {
-  return;
+  function handleClick() {
+    alert("Clicking will remove from the board");
+  }
+  return (
+    <button id="clickedButton" onClick={handleClick}>
+      Saved
+    </button>
+  );
 }
 
 export default ClickedButton;
