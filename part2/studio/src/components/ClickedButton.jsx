@@ -2,7 +2,7 @@ import "./styling.css";
 
 function ClickedButton() {
   function handleClick() {
-    alert("Clicking will remove from the board");
+    alert("Clicking will remove from the board!");
   }
   return (
     <button id="clickedButton" onClick={handleClick}>
