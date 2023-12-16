@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "canvas": "Fox",
+            "designer": "Pip and Roo",
+            "photoUrl": "https://www.stitch-style.com/cdn/shop/products/ScreenShot2021-06-19at10.07.24PM_1080x.png?v=1624162070",
+            "alt": "Stitched fox with fluffy tail"
+        },
+        {
+            "canvas": "New York",
+            "designer": "Needlepoint",
+            "photoUrl": "https://needlepoint.com/cdn/shop/products/new-york-travel-pillow-kit-kits-needlepoint-to-go-313686.jpg?v=1691621164",
+            "alt": "New York Travel Pillow Kit"
+        },
+        {
+            "canvas": "Garden of Joy",
+            "designer": "Kelly Knaga",
+            "photoUrl": "https://www.unwind.studio/cdn/shop/products/gardenjoy_res.jpg?v=1683114817&width=1800",
+            "alt": "Garden of Joy Needlepoint"
+        },
+        {
+            "canvas": "Nutcracker and Bow",
+            "designer": "GN X MJD",
+            "photoUrl": "https://www.greystoneneedlepoint.com/cdn/shop/files/Greystone_Needlepoint_4531_727012a8-5cda-4ad0-8fcc-8186a9071395_1080x.jpg?v=1701026429",
+            "alt": "Nutcracker and Bow"
+        },
+        {
+            "canvas": "Leaf Stitch",
+            "designer": "Karen Barbe",
+            "photoUrl": "https://images.squarespace-cdn.com/content/v1/5f8e02ef1199f5188c4cfe4f/1604701698000-NQKBEFN1PXQ535TRN97S/KarenBarbe-LeafStitchCoaster02.jpg?format=2500w",
+            "alt": "Leaf Stitch – The new needlepoint"
+        }
+    ]
+}
