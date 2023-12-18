@@ -42,8 +42,9 @@
 }
 
 .recipePhotoBlock {
-  display: flex;
+  display: block;
   justify-content: space-evenly;
+  width: 60%;
 }
 
 .imageUpdates {
